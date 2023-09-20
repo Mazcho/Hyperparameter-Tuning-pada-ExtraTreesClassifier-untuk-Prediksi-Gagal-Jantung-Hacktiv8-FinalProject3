@@ -15,11 +15,12 @@ Hasil sebelum tuning
 
 ![image](https://github.com/Mazcho/MODEL_dan_Deployment_Hacktiv8-FinalProject3-Classification-Ensemble-Model/assets/77985996/21f36352-089a-4a36-8ef5-71dd2a4264d7)
 
+hasil diatas menunjukkan bawha akurasi yang dimiliki sebesar 81% dan 82% untuk masing masing kelasnya. Lalu kami melakukan tuning pada dataset yang ada dengan melihat feater importance nya dan menerapkan pada algoritma tersebut
 
-Hasil setelah tuning
+Berikut Hasil setelah tuning : 
 
 ![image](https://github.com/Mazcho/MODEL_dan_Deployment_Hacktiv8-FinalProject3-Classification-Ensemble-Model/assets/77985996/6d864a47-3c9e-44bf-b25f-2fc1616539f4)
 
-
+Bisa kita lihat hasil dari tuning data tersebut naik 10% dari akurasi model sebelumnya. Hal ini menunjukkan bahwa melakukan tuning data dapat meningkatkan akurasi pada model extratreeclasifire
 
 Kalian bisa coba website nya disini : https://hacktiv8finalproject3potensiserangagagaljantung.streamlit.app/
