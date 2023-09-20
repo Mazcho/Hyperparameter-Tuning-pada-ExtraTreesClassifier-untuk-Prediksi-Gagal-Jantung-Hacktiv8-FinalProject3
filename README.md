@@ -1,5 +1,5 @@
 # MODEL_dan_Deployment_Hacktiv8-FinalProject3-Classification-Ensemble-Model
-Halo! Selamat datang di repository ku. Ini adalah model klasifikasi gagal jantung yang mempunyai akurasi sebesar 98% dengan algoritma Bagging! -Final Project H8
+Halo! Selamat datang di repository ku. Ini adalah model klasifikasi gagal jantung yang mempunyai akurasi sebesar 89% dengan algoritma Bagging! -Final Project H8
 
 ![image](https://github.com/Mazcho/MODEL_dan_Deployment_Hacktiv8-FinalProject3-Classification-Ensemble-Model/assets/77985996/7650caee-f8f0-40c1-885d-0dac47eb6221)
 
